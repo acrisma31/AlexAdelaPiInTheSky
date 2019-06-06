@@ -1,1 +1,1 @@
-cad and images ofand planning sketches 
+cad and images of planning sketches 
