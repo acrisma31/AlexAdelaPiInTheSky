@@ -1,9 +1,13 @@
 # AlexAdelaPiInTheSky
 PI in the Sky Project
 
+![complete](https://user-images.githubusercontent.com/43007393/59064449-449b6b00-8878-11e9-993a-5dc324c56a98.jpg)
+finished product
+
 ## Planning 
  
-![complete](https://user-images.githubusercontent.com/43007393/59064449-449b6b00-8878-11e9-993a-5dc324c56a98.jpg)
+![sketches](https://user-images.githubusercontent.com/43007393/59064450-45340180-8878-11e9-9eaa-b741c2ca0caf.jpg)
+initial sketches
 
 ### The Idea
 The basic idea is to attach the Pi to the end of an arrow and shoot it off a bow. There will be a capsule at the end of the arrow containing the Pi and all other related components. We estimate that in comparison to other projects we've done in the past this one shouldn't take as much time because the approach to it is much simpler. 
